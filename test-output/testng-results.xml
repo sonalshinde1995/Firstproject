@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-12T14:29:24 IST" name="Suite" finished-at="2022-10-12T14:29:34 IST" duration-ms="10275">
+    <groups>
+    </groups>
+    <test started-at="2022-10-12T14:29:24 IST" name="Test" finished-at="2022-10-12T14:29:34 IST" duration-ms="10275">
+      <class name="com.bankingproject.testclass.LoginpageVerification">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:com.bankingproject.testclass.LoginpageVerification@6d763516]" started-at="2022-10-12T14:29:23 IST" name="setReport" finished-at="2022-10-12T14:29:24 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingproject.testclass.LoginpageVerification@6d763516]" started-at="2022-10-12T14:29:24 IST" name="setup" finished-at="2022-10-12T14:29:30 IST" duration-ms="6150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Loginpage()[pri:0, instance:com.bankingproject.testclass.LoginpageVerification@6d763516]" started-at="2022-10-12T14:29:30 IST" name="Loginpage" finished-at="2022-10-12T14:29:34 IST" duration-ms="3632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.bankingproject.testclass.LoginpageVerification@6d763516]" started-at="2022-10-12T14:29:34 IST" name="closeBrowser" finished-at="2022-10-12T14:29:34 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.bankingproject.testclass.LoginpageVerification@6d763516]" started-at="2022-10-12T14:29:34 IST" name="endReport" finished-at="2022-10-12T14:29:35 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.bankingproject.testclass.LoginpageVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
